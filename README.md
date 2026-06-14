@@ -95,4 +95,4 @@ prioritise next:
 ## Acknowledgements
 
 Group coursework for INFO284 Machine Learning, University of Bergen (Spring 2025).
-Collaborators: `<Phillipa Huseby, Gaute Robertsen, Selma Børtveit>`.
+Collaborators: `<Jakob Enoksen Ristesund, Phillipa Huseby, Gaute Robertsen, Selma Børtveit>`.
