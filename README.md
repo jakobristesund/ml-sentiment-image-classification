@@ -20,7 +20,7 @@ preprocessing, and CNN-based vision.
 
 **Goal:** classify hotel reviews into three sentiment classes (positive / neutral / negative).
 
-**Data:** *515K Hotel Reviews Data in Europe* (~515,000 reviews) — `<add Kaggle link>`.
+**Data:** *515K Hotel Reviews Data in Europe* (~515,000 reviews) — [Kaggle](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe).
 Reviewer scores were bucketed into Positive (> 6), Neutral (4–6) and Negative (< 4).
 
 **Pipeline:** text cleaning and stop-word removal with **spaCy**, feature extraction with
@@ -31,7 +31,7 @@ Reviewer scores were bucketed into Positive (> 6), Neutral (4–6) and Negative 
 | Multinomial Naive Bayes | 0.90 | 0.32 |
 | Bernoulli Naive Bayes | 0.85 | 0.49 |
 | K-Nearest Neighbours* | 0.88 | 0.36 |
-| LSTM (Keras) | — | trained for comparison |
+| LSTM (Keras) | not reported | not reported |
 
 <sub>*KNN evaluated on a stratified subsample for tractability.*</sub>
 
@@ -95,4 +95,4 @@ prioritise next:
 ## Acknowledgements
 
 Group coursework for INFO284 Machine Learning, University of Bergen (Spring 2025).
-Collaborators: `<Jakob Enoksen Ristesund, Phillipa Huseby, Gaute Robertsen, Selma Børtveit>`.
+Collaborators: Jakob Enoksen Ristesund, Phillipa Huseby, Gaute Robertsen, Selma Børtveit.
